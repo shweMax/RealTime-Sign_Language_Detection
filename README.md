@@ -1,2 +1,2 @@
-# RealTime-Sign_Language_Detection
+# Sign-Language-Detection-In-RealTime
 I'll write later :)
